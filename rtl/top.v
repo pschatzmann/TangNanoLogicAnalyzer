@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Phil Schatzmann
 // Tang Nano 20K - 16 channel SUMP logic analyzer for PulseView / sigrok,
 // with 8 MB of sample memory in the embedded SDRAM.
 //

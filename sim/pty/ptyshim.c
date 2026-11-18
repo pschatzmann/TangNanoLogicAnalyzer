@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Phil Schatzmann
 // LD_PRELOAD shim for testing only: libserialport refuses pseudo terminals
 // because /sys/class/tty/pts/N does not exist. Redirect that lookup to
 // ttyS0's sysfs entry so sigrok-cli can open the simulation's pty.

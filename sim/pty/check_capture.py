@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 Phil Schatzmann
 """Check a sigrok-cli binary capture (-O binary) of the test pattern/probes.
 
 usage: check_capture.py FILE UNITSIZE MASK STEP [TRIGGER_BIT]

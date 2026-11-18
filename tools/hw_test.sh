@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 Phil Schatzmann
 # Hardware test with the board connected (no probes needed: uses the
 # internal test pattern). Usage: tools/hw_test.sh [port] [baud] [--full]
 #   --full also captures the whole memory (4M samples, ~2 min at 921600 baud)

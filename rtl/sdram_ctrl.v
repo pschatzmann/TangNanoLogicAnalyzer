@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Phil Schatzmann
 // Streaming SDRAM controller for the GW2AR-18's embedded 64 Mbit SDR SDRAM
 // (2M x 32: 4 banks x 2048 rows x 256 columns), clocked at ~100 MHz.
 //

@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Phil Schatzmann
 // SUMP / Openbench Logic Sniffer compatible capture core (16 channels) with
 // the sample buffer in SDRAM (2M words).
 //

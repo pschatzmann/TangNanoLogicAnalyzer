@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Phil Schatzmann
 `timescale 1ns/1ps
 // Behavioural model of a 2M x 32 SDR SDRAM (4 banks x 2048 rows x 256 cols)
 // for simulation. Burst length 1 only. Checks basic protocol rules and

@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Phil Schatzmann
 // 8N1 UART receiver. rx must already be synchronised to clk.
 module uart_rx #(
     parameter integer CLKS_PER_BIT = 868

@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Phil Schatzmann
 // 27 MHz -> 100.286 MHz sample/system clock for the Tang Nano 20K (GW2AR-18C).
 //
 // libsigrok's OLS driver assumes a 100 MHz base clock (samplerate =

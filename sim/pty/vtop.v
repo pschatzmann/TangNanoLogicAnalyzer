@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Phil Schatzmann
 `timescale 1ns/1ps
 // Top level for the pty co-simulation: la_system + SDRAM model, UART and probes from C++.
 module vtop (

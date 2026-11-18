@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Phil Schatzmann
 // Everything except the PLL: input synchronisers, UART, SUMP core and the
 // SDRAM controller.
 module la_system #(

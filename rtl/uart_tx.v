@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Phil Schatzmann
 // 8N1 UART transmitter with valid/ready handshake. GAP_BITS adds idle bit
 // times after each stop bit (paces the data for slow USB bridges).
 module uart_tx #(

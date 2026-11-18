@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Phil Schatzmann
 `timescale 1ns/1ps
 // Testbench: la_system + SDRAM model, driven over the UART like libsigrok's
 // "ols" driver does. Run with `make sim`.

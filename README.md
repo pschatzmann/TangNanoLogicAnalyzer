@@ -286,3 +286,12 @@ reads the port.** During testing the BL616 bridge stopped passing UART data
 twice in that situation (e.g. a diagnostic that printed every second, left
 running during a long build) and only recovered after unplugging the board.
 The analyzer itself only sends when asked.
+
+## License
+
+Copyright 2026 Phil Schatzmann. Licensed under the
+[Apache License, Version 2.0](LICENSE); each source file carries an
+`SPDX-License-Identifier: Apache-2.0` header.
+
+The pinout image in the [Pinout](#pinout) section is Sipeed's and is only
+linked from their wiki, not part of this repository.

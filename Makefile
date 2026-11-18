@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 Phil Schatzmann
 # Tang Nano 20K SUMP logic analyzer - open source flow
 # (yosys -> nextpnr-himbaechel -> gowin_pack -> openFPGALoader)
 #

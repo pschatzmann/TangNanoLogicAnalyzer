@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 Phil Schatzmann
 # End-to-end test with the real libsigrok "ols" driver (the one PulseView
 # uses): the design runs in Verilator behind a pseudo terminal and is
 # driven with sigrok-cli. Usage: sim/pty/run_sigrok_test.sh <build-dir>

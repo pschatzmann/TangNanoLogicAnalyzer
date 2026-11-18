@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Phil Schatzmann
 // Small synchronous FIFO, first-word-fall-through (asynchronous read, so it
 // maps to LUT RAM). Absorbs SDRAM row changes and refreshes.
 module sync_fifo #(

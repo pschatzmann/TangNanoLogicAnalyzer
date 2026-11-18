@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Phil Schatzmann
 // Runs the logic analyzer simulation behind a pseudo terminal so that
 // sigrok-cli / PulseView ("ols" driver) can talk to it.
 //   ./Vvtop <symlink-path> [trigger_cycle]
